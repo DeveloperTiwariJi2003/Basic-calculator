@@ -1,0 +1,34 @@
+/* .calculator{
+    height
+} */
+td {
+   /* padding: 10px;
+  border: 1px solid #ddd;
+  text-align: center; */
+}
+body{
+    display: flex;
+    justify-content: center;
+}
+button {
+    margin: 0;
+    padding: 0;
+    height: auto;
+    width: 70px;
+}
+input{
+    width: 290px;
+    height: 50px;
+    margin: 0;
+    padding: 0;
+}
+.container{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    /* align-items: center; */
+}
+.maincontainer{
+    border: 2px solid black;
+    width: 330px;
+}
